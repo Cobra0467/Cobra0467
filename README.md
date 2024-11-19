@@ -14,7 +14,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Cobra0467&style=flat-square&color=blue" alt=""/>
 
 <h1 align="center">
   Hey there
@@ -23,7 +23,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 
 I am a Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
@@ -33,7 +33,7 @@ I am a Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time, I play videogames, read articles and do sport.
 
-- :mailbox:How to reach me: ivan01092004@gmail.com
+- :mailbox: How to reach me: ivan01092004@gmail.com
 
 ---
 
@@ -53,15 +53,15 @@ I am a Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ---
 
-![<Cobra0467>'s Stats](https://github-readme-stats.vercel.app/api?username=<Cobra0467>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Cobra0467's Stats](https://github-readme-stats.vercel.app/api?username=Cobra0467&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?Cobra0467=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cobra0467&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Cobra0467=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cobra0467&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -69,4 +69,3 @@ I am a Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
