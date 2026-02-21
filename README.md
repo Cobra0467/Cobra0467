@@ -25,11 +25,9 @@
 
 ### :man_technologist: About Me :
 
-I am a Developer Student   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
+I am a ServiceNow and Java Developer    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 
-- :telescope: I’m studying some programming languages like Java, SQL, Dart...
-
-- :seedling: Exploring Technical Content Writing.
+- :telescope: I am open to exploring new challenges
 
 - :zap: In my free time, I play videogames, read articles and do sport.
 
@@ -52,21 +50,4 @@ I am a Developer Student   <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
 
-![Cobra0467's Stats](https://github-readme-stats.vercel.app/api?username=Cobra0467&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Cobra0467&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cobra0467&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-### :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
